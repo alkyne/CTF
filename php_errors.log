@@ -1,0 +1,46 @@
+[02-Sep-2016 07:02:51 UTC] PHP Warning:  fopen(): Filename cannot be empty in /home/ubuntu/workspace/download.php on line 22
+[02-Sep-2016 07:02:51 UTC] PHP Stack trace:
+[02-Sep-2016 07:02:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/download.php:0
+[02-Sep-2016 07:02:51 UTC] PHP   2. fopen() /home/ubuntu/workspace/download.php:22
+[02-Sep-2016 07:02:51 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/download.php on line 25
+[02-Sep-2016 07:02:51 UTC] PHP Warning:  fopen(): Filename cannot be empty in /home/ubuntu/workspace/download.php on line 22
+[02-Sep-2016 07:02:51 UTC] PHP Stack trace:
+[02-Sep-2016 07:02:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/download.php:0
+[02-Sep-2016 07:02:51 UTC] PHP   2. fopen() /home/ubuntu/workspace/download.php:22
+[02-Sep-2016 07:02:51 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/download.php on line 25
+[02-Sep-2016 07:02:51 UTC] PHP Stack trace:
+[02-Sep-2016 07:02:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/download.php:0
+[02-Sep-2016 07:02:51 UTC] PHP   2. fclose() /home/ubuntu/workspace/download.php:25
+[02-Sep-2016 07:02:51 UTC] PHP Stack trace:
+[02-Sep-2016 07:02:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/download.php:0
+[02-Sep-2016 07:02:51 UTC] PHP   2. fclose() /home/ubuntu/workspace/download.php:25
+[02-Sep-2016 07:03:12 UTC] PHP Warning:  fopen(): Filename cannot be empty in /home/ubuntu/workspace/download.php on line 22
+[02-Sep-2016 07:03:12 UTC] PHP Stack trace:
+[02-Sep-2016 07:03:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/download.php:0
+[02-Sep-2016 07:03:12 UTC] PHP   2. fopen() /home/ubuntu/workspace/download.php:22
+[02-Sep-2016 07:03:12 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/download.php on line 25
+[02-Sep-2016 07:03:12 UTC] PHP Stack trace:
+[02-Sep-2016 07:03:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/download.php:0
+[02-Sep-2016 07:03:12 UTC] PHP   2. fclose() /home/ubuntu/workspace/download.php:25
+[02-Sep-2016 07:05:53 UTC] PHP Warning:  fopen(): Filename cannot be empty in /home/ubuntu/workspace/download.php on line 22
+[02-Sep-2016 07:05:53 UTC] PHP Stack trace:
+[02-Sep-2016 07:05:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/download.php:0
+[02-Sep-2016 07:05:53 UTC] PHP   2. fopen() /home/ubuntu/workspace/download.php:22
+[02-Sep-2016 07:05:53 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/download.php on line 25
+[02-Sep-2016 07:05:53 UTC] PHP Stack trace:
+[02-Sep-2016 07:05:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/download.php:0
+[02-Sep-2016 07:05:53 UTC] PHP   2. fclose() /home/ubuntu/workspace/download.php:25
+[02-Sep-2016 07:05:53 UTC] PHP Warning:  fopen(): Filename cannot be empty in /home/ubuntu/workspace/download.php on line 22
+[02-Sep-2016 07:05:53 UTC] PHP Stack trace:
+[02-Sep-2016 07:05:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/download.php:0
+[02-Sep-2016 07:05:53 UTC] PHP   2. fopen() /home/ubuntu/workspace/download.php:22
+[02-Sep-2016 07:05:53 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/download.php on line 25
+[02-Sep-2016 07:05:53 UTC] PHP Stack trace:
+[02-Sep-2016 07:05:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/download.php:0
+[02-Sep-2016 07:05:53 UTC] PHP   2. fclose() /home/ubuntu/workspace/download.php:25
+[15-Oct-2016 14:46:36 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ubuntu/workspace/index.php on line 23
+[15-Oct-2016 14:46:45 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ubuntu/workspace/index.php on line 23
+[15-Oct-2016 14:48:44 UTC] PHP Warning:  file_get_contents(abc): failed to open stream: No such file or directory in /home/ubuntu/workspace/index.php on line 22
+[15-Oct-2016 14:48:44 UTC] PHP Stack trace:
+[15-Oct-2016 14:48:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/index.php:0
+[15-Oct-2016 14:48:44 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/index.php:22
