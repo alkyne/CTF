@@ -1,5 +1,0 @@
-﻿SimpleVi hint
-
-Dangling File Pointer!!!
-널 갖고싶어
-EOF 뒤의 파일 포인터에 입력하면 사이 공간이 NULL로 채워집니다.

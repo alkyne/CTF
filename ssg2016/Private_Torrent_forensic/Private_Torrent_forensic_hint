@@ -1,0 +1,8 @@
+1. Tor Circuit
+2. bencode
+
+bencode.bencode("SSG_CTF")
+'7:SSG_CTF'
+
+
+announce.php
